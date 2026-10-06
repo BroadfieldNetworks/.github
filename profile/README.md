@@ -6,7 +6,7 @@ Broadfield Networks develops, publishes, and operates consumer software products
 
 ### [Maxisnap](https://github.com/BroadfieldNetworks/maxisnap)
 
-A Windows screenshot and screen-recording app for capture, annotation, OCR, local saving, and
+A Windows and macOS screenshot and screen-recording app for capture, annotation, OCR, local saving, and
 optional sharing.
 
 - [Product website](https://maxisnap.com/)
